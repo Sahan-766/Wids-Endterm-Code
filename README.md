@@ -1,12 +1,12 @@
-# WiDS Midterm Code Repository
+# WiDS Endterm Code Repository
 
-This repository contains all the coding work completed up to the midterm as part of the **Women in Data Science (WiDS)** coursework.  
+This repository contains all the coding work completed up to the midterm as part of the **Winter in Data Science (WiDS)** coursework.  
 All work is implemented using **Collab Notebooks (.ipynb)** and follows the given problem statements and instructions.
 
 ---
 
 ## Repository Structure
-```Wids-Midterm-Code/
+```Wids-Endterm-Code/
 │
 ├── Assignment2.ipynb
 ├── Assignment3 wids.ipynb
