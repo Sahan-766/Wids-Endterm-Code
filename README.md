@@ -9,13 +9,13 @@ All work is implemented using **Collab Notebooks (.ipynb)** and follows the give
 ```Wids-Endterm-Code/
 │
 ├── Assignment2.ipynb
-├── Assignment3 wids.ipynb
+├── Assignment 3 wids(1).ipynb
 ├── final_project.ipynb
 ├── Numpy0.ipynb
 ├── Pandas.ipynb
 ├── question1.ipynb
 ├── question2.ipynb
-├── report.pdf
+├── wids_endtern_report.pdf
 └── README.md
 ```
 
