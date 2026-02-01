@@ -74,6 +74,14 @@ All work is implemented using **Collab Notebooks (.ipynb)** and follows the give
 
 ---
 
+### 🔹 Unsupervised Machine Learning and Optimisation
+- Implementation of K-Means Clustering to group songs with similar audio profiles.
+- Dimensionality reduction using PCA (Principal Component Analysis) for 2D visualization of high-dimensional data.
+- Hyperparameter tuning using GridSearchCV for Decision Tree models.
+- Analysis of the Elbow Method to determine the optimal number of clusters.  
+(**Relevant notebook:** `Assignment3 wids.ipynb`)
+
+---
 ## Tools & Technologies Used
 - Python
 - NumPy
