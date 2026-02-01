@@ -85,6 +85,23 @@ All work is implemented using **Collab Notebooks (.ipynb)** and follows the give
 (**Relevant notebook:** `Assignment3 wids.ipynb`)
 
 ---
+
+### 🔹 Final Project
+- Level 1: Supervised Learning & Data Foundations
+- Data Understanding & Cleaning: Identified numerical/categorical features and handled missing values across 130,000+ tracks to ensure data integrity.
+- Statistical Analysis: Computed the mean, variance, and standard deviation for core audio features like energy and tempo to understand global trends.
+- Multi-Class Classification: Developed a predictive model to categorize songs into 'Low', 'Medium', and 'High' popularity levels.
+- Model Benchmarking: Evaluated and compared the performance of Logistic Regression and K-Nearest Neighbors (KNN) using accuracy and confusion matrices.  
+(**Relevant notebook:** `final_project.ipynb`)
+
+- Level 2: Advanced Modeling & Unsupervised Learning
+- K-Means Clustering: Implemented unsupervised learning to group songs into four distinct clusters based on their unique audio profiles.
+- Dimensionality Reduction (PCA): Applied Principal Component Analysis to transform high-dimensional data into a 2D plane for cluster visualization.
+- Hyperparameter Optimization: Utilized GridSearchCV to find the optimal max_depth and min_samples_split for a Decision Tree classifier.
+- Cluster Interpretation: Analyzed the "Elbow Method" and PCA scatter plots to interpret how clusters distinguish different musical moods.
+(**Relevant notebook:** `final_project.ipynb`)
+
+---
 ## Tools & Technologies Used
 - Python
 - NumPy
